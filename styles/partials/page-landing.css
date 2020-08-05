@@ -108,6 +108,7 @@
     grid-area: proffy;
     text-align: initial;
     align-self: center;
+    margin: 0;
   }
 
   .logo-container img {
