@@ -1,0 +1,27 @@
+{
+  "name": "nlw2",
+  "version": "1.0.0",
+  "description": "Project developed during NLW#2 of @Rocketseat using HTML, CSS and JS.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlucas13/nlw2-proffy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hlucas13/nlw2-proffy/issues"
+  },
+  "homepage": "https://github.com/hlucas13/nlw2-proffy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
