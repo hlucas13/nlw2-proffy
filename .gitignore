@@ -5,3 +5,7 @@
 
 # local settings
 .vscode/
+
+# testing
+/src/database/fake_data.js
+/src/database/test.js
