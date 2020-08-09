@@ -4,7 +4,7 @@
 /node_modules
 
 # local settings
-.vscode/
+/.vscode
 
 # testing
 /src/database/fake_data.js
